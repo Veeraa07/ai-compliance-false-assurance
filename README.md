@@ -1,99 +1,159 @@
-# AI Compliance False Assurance
-> ⚠️ Inspired by emerging industry concerns around AI-driven compliance automation and assurance reliability.
+# AI Compliance False Assurance Framework
 
-## ⚠️ Key Insight
-
-Compliance certifications such as SOC 2 and ISO 27001 can create **false assurance** when:
-- controls are not validated
-- evidence is auto-generated
-- audit quality is inconsistent
-
-With the rise of AI-driven compliance automation, this risk is increasing at scale.
-
----
+> ⚠️ A Governance, Risk & Compliance (GRC) research project exploring risks created by AI-driven compliance automation and false assurance in cybersecurity compliance programs.
 
 ## 📖 Overview
 
-This project explores how modern compliance tooling can introduce systemic risks in third-party risk management (TPRM).
+The rapid adoption of AI-powered compliance platforms has transformed how organizations manage audits, evidence collection, and regulatory requirements. While automation improves efficiency, it can also create a dangerous illusion of compliance when controls are not properly validated.
 
-Using a realistic case study scenario, it demonstrates how organisations may rely on certifications that do not reflect actual control effectiveness.
+This project investigates the concept of **False Assurance**—the gap between perceived compliance and actual control effectiveness.
+
+Using realistic Third-Party Risk Management (TPRM) scenarios, the project demonstrates how organizations may rely on certifications, automated evidence, and low-rigor audits that fail to accurately reflect security posture.
 
 ---
 
 ## 🎯 Objectives
 
-- Identify risks introduced by AI-driven compliance automation  
-- Analyse weaknesses in traditional vendor risk management  
-- Demonstrate control failures in real-world scenarios  
-- Propose practical, implementable mitigation controls  
+* Analyze risks introduced by AI-driven compliance automation.
+* Identify weaknesses in Third-Party Risk Management (TPRM).
+* Examine real-world control failures and audit limitations.
+* Design evidence-based assurance mechanisms.
+* Strengthen AI Governance and Compliance validation processes.
 
 ---
 
 ## 📂 Project Structure
 
-01_scenario/ → Case study scenario
-02_risk_analysis/ → Risk identification and breakdown
-03_control_failures/ → Analysis of failed controls
-04_control_framework/ → Improved control design
-05_templates/ → Practical GRC templates
-06_lessons_learned/ → Industry insights and implications
+01_scenario/ → Vendor risk and compliance case studies
 
+02_risk_analysis/ → Risk identification and impact analysis
+
+03_control_failures/ → Failed control assessment
+
+04_control_framework/ → Improved governance controls
+
+05_templates/ → GRC assessment templates
+
+06_lessons_learned/ → Key findings and recommendations
+
+07_ai_governance/ → AI Governance control framework
+
+08_compliance_mapping/ → ISO 27001, NIST CSF, ISO 42001 mapping
 
 ---
 
 ## 🔍 Key Risk Themes
 
-- False assurance from compliance certifications  
-- AI-generated or templated control evidence  
-- Over-reliance on low-rigor audit providers  
-- Lack of control validation in vendor onboarding  
+* False assurance from compliance certifications
+* AI-generated audit evidence
+* Automated compliance without validation
+* Weak third-party security assessments
+* Inadequate auditor quality reviews
+* Over-reliance on compliance automation tools
+* Lack of AI governance oversight
 
 ---
 
 ## 🛡️ Control Framework Highlights
 
-This project introduces:
+### Evidence Validation
 
-- Evidence-based vendor validation  
-- Control sampling and walkthroughs  
-- Auditor quality assessment  
-- AI governance controls for compliance automation  
+* Independent evidence verification
+* Control walkthrough procedures
+* Risk-based evidence sampling
+
+### Vendor Risk Management
+
+* Enhanced due diligence
+* Security posture validation
+* Continuous monitoring controls
+
+### AI Governance
+
+* AI-generated evidence review process
+* Human-in-the-loop verification
+* AI risk assessment procedures
+* AI compliance accountability controls
+
+### Audit Quality Assurance
+
+* Auditor competency assessment
+* Audit scope verification
+* Independent control testing
 
 ---
 
 ## 🧰 Included Templates
 
-- Vendor Risk Questionnaire  
-- Control Testing Checklist  
-- Auditor Assessment Framework  
+* Vendor Risk Assessment Questionnaire
+* Third-Party Security Review Checklist
+* Control Testing Checklist
+* AI Governance Assessment Template
+* Compliance Validation Framework
+* Auditor Quality Assessment Matrix
+
+---
+
+## 📊 Compliance Framework Mapping
+
+### ISO 27001
+
+* Annex A Control Mapping
+* Supplier Relationship Controls
+* Information Security Governance
+
+### NIST CSF 2.0
+
+* Govern
+* Identify
+* Protect
+* Detect
+* Respond
+* Recover
+
+### ISO 42001
+
+* AI Management System Controls
+* AI Governance Requirements
+* AI Risk Management
 
 ---
 
 ## 🚨 Why This Matters
 
-As compliance becomes increasingly automated:
+As compliance becomes increasingly automated, organizations risk outsourcing not only compliance activities but also accountability and assurance.
 
-> Organisations risk outsourcing not just compliance — but accountability.
+This creates a critical gap between:
 
-This creates a growing gap between:
-- **perceived security (certification)**
-- **actual security (control effectiveness)**
+* Perceived Security (Compliance Certifications)
+* Actual Security (Validated Controls)
+
+Bridging this gap requires evidence-based assurance, continuous validation, and effective AI governance.
 
 ---
 
-## 🧠 Author
+## 👨‍💻 Author
 
-GRC Analyst specialising in:
-- ISO 27001  
-- PCI DSS  
-- Third-Party Risk  
-- AI Governance  
+**Veeraa Suriyaa B**
+
+Specializations:
+
+* IT Governance, Risk & Compliance (GRC)
+* ISO 27001
+* Third-Party Risk Management (TPRM)
+* AI Governance
+* Cybersecurity Risk Management
+
+LinkedIn: [www.linkedin.com/in/veerasuriyaa](http://www.linkedin.com/in/veerasuriyaa)
 
 ---
 
 ## 📌 Future Enhancements
 
-- Mapping to ISO 27001 Annex A controls  
-- Integration with NIST CSF  
-- Example vendor assessment walkthrough  
-- Expanded risk scoring model  
+* GRC Dashboard Integration
+* AI Risk Scoring Engine
+* Compliance-as-Code Validation
+* Automated Evidence Review Workflow
+* Vendor Risk Heat Maps
+* NIST AI RMF Integration
+* Regulatory Compliance Tracking
